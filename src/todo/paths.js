@@ -7,5 +7,6 @@ module.exports = paths(['todos'], [
   'isTodosNotEmpty',
   'allCompleted',
   'counter',
-  'editedId'
+  'editedId',
+  { some: [ 'path', 'here' ] }
 ]);
